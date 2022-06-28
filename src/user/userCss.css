@@ -1,0 +1,24 @@
+@import '../palette.css';
+
+.user-page {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.user-container {
+	margin-top: 100px;
+	border-radius: 1rem;
+	padding: 20px;
+	padding-top: 0;
+	background-color: var(--primary);
+	box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+
+.user-header {
+	color: var(--dark);
+}
+
+.user-content {
+}

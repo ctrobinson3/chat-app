@@ -1,0 +1,21 @@
+@import '../palette.css';
+
+/* General */
+.link-text {
+	cursor: pointer;
+	font-size: 12px;
+	color: red;
+}
+
+/* Profile */
+.prof-detail-header,
+.profile-card {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.change-details-text {
+	margin: 0;
+	margin-bottom: 20px;
+}

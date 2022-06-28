@@ -1,0 +1,11 @@
+@import '../palette.css';
+
+/* Navbar */
+.navbar-ul {
+	display: flex;
+	flex-direction: row;
+}
+
+.navbar-li {
+	margin: auto;
+}
